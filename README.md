@@ -17,7 +17,7 @@ Last saved game is automatically restored when game starts. Press **New Game** t
 The game sources are split in multiple modules for easier management.
 Below is an image describing game structure.
 
-![Battleships modules](https://gitlab.rd.tut.fi/kallone2/wsd17-devnull/blob/master/src/js_games/battleships/modules.png)
+![Battleships modules](https://github.com/PerttuP/wsd-2017_battleships/blob/master/modules.png)
 
 Here is a shord description for modules. More detailed information can be found in the source files.
 
